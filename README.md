@@ -74,5 +74,17 @@ Roslaunch darknet daknet.launch
 
 The documentation also contains multiple drone swarm coordination but is not implemented completely.
 
+### Socials plug
 
+<details open>
+<summary>B.E.Pranav Kumaar</summary>
+Student ID @Amrita Vishwa Vidyapeetham - CB.EN.U4AIE20052
+
+:fire: [twitter](https://twitter.com/bepranavkumaar1)
+
+:zap: [LinkedIn](https://www.linkedin.com/in/pranav-kumaar/)
+
+:snowflake: [Github](https://github.com/genpranav)
+
+</details>
 
