@@ -1,1 +1,0 @@
-# Yolo-v3-object-detection-from-Drone-feed
